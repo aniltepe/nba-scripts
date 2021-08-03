@@ -1,2 +1,2 @@
 # nba-scripts
-for fetching teams, players, games etc. from nba.com via chrome webdriver
+creates and fills the database tables of teams, players, games etc. from nba.com via chrome webdriver
